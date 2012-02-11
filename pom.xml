@@ -1,0 +1,9 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.rockybean</groupId>
+  <artifactId>chaos</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>chaos</name>
+  <description>收集的一些优秀代码	
+收集的一些优秀代码</description>
+</project>
